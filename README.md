@@ -1,2 +1,2 @@
 # service-walkthrough
-going through the website
+going through the service provided options
